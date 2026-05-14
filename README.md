@@ -1,62 +1,59 @@
 # Jingxian Fu
 
-I am a researcher interested in **plant genetics, quantitative genetics, computational biology, and machine learning-assisted crop improvement**.
+I am interested in **plant genetics, quantitative genetics, computational biology, and machine learning-assisted crop improvement**.
 
-My work focuses on developing and applying computational methods to understand genotype–phenotype relationships in crops, with particular interests in maize genetics, genomic prediction, and plant defense mechanisms.
+My work focuses on understanding **genotype–phenotype relationships** in crops, especially in maize genetics, genomic prediction, and plant defense biology.
 
 ---
 
-## Research Focus
+## Research Interests
 
 - Quantitative genetics and genomic prediction
+
 - GWAS and genotype–phenotype association analysis
+
 - Mixed linear models and variance component estimation
-- Machine learning for genetic architecture dissection
+
+- Machine learning for genetic architecture interpretation
+
 - Maize insect resistance and defense-related metabolism
-- Synthetic biology strategies for crop improvement
+
+- Synthetic biology for crop improvement
 
 ---
 
-## Technical Interests
+## Technical Skills
 
-I am particularly interested in efficient computational implementations of genetic models, including:
+- **Languages:** Python, R, Rust, Shell
 
-- Genomic relationship matrix construction
-- GBLUP and rrBLUP
-- Bayesian genomic prediction models
-- Kernel methods
-- PCG and eigendecomposition-based solvers
-- Rust/Python/R-based high-performance scientific computing
+- **Methods:** GBLUP, rrBLUP, Bayesian models, kernel methods, GWAS, QTL mapping
+
+- **Computing:** NumPy, SciPy, pandas, scikit-learn, BLAS/LAPACK
 
 ---
 
-## Selected Topics I Am Exploring
+## Current Focus
 
-### Genomic Prediction
+- Scalable genomic prediction algorithms
 
-Developing scalable models and algorithms for predicting complex traits using genome-wide markers.
+- Memory-efficient genomic relationship matrix construction
 
-### Genetic Interaction Interpretation
+- Machine learning-based interpretation of genetic interactions
 
-Combining machine learning, residualized phenotypes, and search algorithms to identify interpretable multi-locus patterns.
-
-### Plant Defense Biology
-
-Studying how metal ion homeostasis, hormone signaling, and specialized metabolism contribute to insect resistance in maize.
+- Defense mechanisms related to metal ion homeostasis and specialized metabolism
 
 ---
 
-## Tools
+## GitHub Stats
 
-- Python / R / Rust / Shell
-- NumPy / SciPy / pandas / scikit-learn
-- Mixed model algorithms
-- Bioinformatics pipelines
-- High-performance genomic computation
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=FJingxian&show_icons=true&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=FJingxian&layout=compact&hide_border=true)
 
 ---
 
 ## Contact
 
 - GitHub: [@FJingxian](https://github.com/FJingxian)
+
 - Email: 827888724@qq.com
